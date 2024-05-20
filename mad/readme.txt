@@ -1,0 +1,1 @@
+ilagay itong folder sa htdocs
